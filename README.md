@@ -118,7 +118,7 @@
 <div align="center">
   <img
     style="border-radius: 10px"
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
   />
 </div>
 
